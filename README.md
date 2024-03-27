@@ -10,7 +10,7 @@
 2. Shubhangi Khanna [@shubbykhanna](https://github.com/shubbykhanna/MIST-4610-Project1)
 3. Jay Dumon [@JayDumon](https://github.com/JayDumon/MIST-4610-Group-Project-1)
 4. Ryan Cullen [@javaprogrammer2023](https://github.com/Javaprogrammer2023/MIST4610-Project1)
-5. Elyssa Abbott [@elyssaabbott](https://github.com/elyssaabbott/MIST-4610-GroupProject1)
+5. Elyssa Abbott [@elyssaabbott](https://github.com/elyssaabbott/MIST4610-Project1)
 
 ## Problem Description:
 We are the owner/operator of a tennis club needing to build a relational database. The central entity is the Members entity - Members being each person who has a membership at the tennis club. Members have the ability to reserve facility spaces (courts and club rooms), purchase tennis necessities (attire, racket, shoes,etc.), and develop their tennis skillset through lessons with tennis coaches or playing matches in a league. Through modeling these relationships in depth, we aim to precisely model these relationships, create sample data, add attributes to our entities, and perform valuable queries to effectively model our tennis club's operations.
